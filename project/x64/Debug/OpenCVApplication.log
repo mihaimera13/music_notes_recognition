@@ -1,0 +1,29 @@
+﻿  OpenCVApplication.cpp
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(130,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(145,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(530,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(550,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(552,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(554,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(556,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(566,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(572,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(578,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(584,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(609,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(614,20): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(638,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\OpenCVApplication.cpp(659,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OpenCVApplication.vcxproj -> C:\Users\Mera\Documents\stick\facultate\an3_2\IP\project\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg451_64d.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf451_64d.dll
+  OpenCV\dll\Debug\opencv_world451d.dll
+          3 file(s) copied.
